@@ -6,13 +6,11 @@ layout: default
 title: Yurdakul Orhun
 ---
 
-![photo](/assets/photo_rounded.png){:style="float:left; width:15em; margin-right:1em; border:none; -webkit-box-shadow:none;"} 
+![photo](/assets/photo_rounded.png){:style="float:left; width:12em; margin-right: 1.5em; border:none; -webkit-box-shadow:none;"} 
 
 ### About
 Senior Software Engineer with 8+ years of experience in building mobile apps from the ground up.
 As a co-founder and software engineer, I focus on multiple aspects of mobile software development. This includes designing UX-oriented features, managing the development cycle, planning releases, and measuring user interaction and engagement.
-<br />
-<br />
 
 * * * 
 
