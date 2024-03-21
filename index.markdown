@@ -16,9 +16,9 @@ As a co-founder and software engineer, I focus on multiple aspects of mobile sof
 
 ### Experience
 #### Co-Founder / Android Team Lead
-Connected2.me, Ankara, Turkey | July 2014 - April 2023 (8 years 9 months)
+[Connected2.me](https://connected2.me/){:target="_blank"}, Ankara, Turkey | July 2014 - April 2023 (8 years 9 months)
 
-Joined [Connected2.me](https://connected2.me/){:target="_blank"} (a global messaging platform with 55M+ registered users) as a co-founder. Among other duties, such as collaborating on
+Joined Connected2.me (a global messaging platform with 55M+ registered users) as a co-founder. Among other duties, such as collaborating on
 product decisions with the core team, developing and maintaining the Android app was my
 primary responsibility.
 * Developed the Android app from scratch. Gained experience in UI implementation,
@@ -34,9 +34,9 @@ company. Focused on different aspects of growth, designed features, carried out 
 implementation, and measured their impact with each product team.
 
 #### System Database Administrator
-Garanti BBVA Teknoloji, Istanbul, Turkey | July 2011 - July 2014 (3 years)
+[Garanti BBVA Teknoloji](https://www.garantibbvateknoloji.com.tr/){:target="_blank"}, Istanbul, Turkey | July 2011 - July 2014 (3 years)
 
-Worked in the DB2 for z/OS System Management team, whose responsibilities include:
+Worked in the DB2 for z/OS System Management team at Garanti BBVA Teknoloji, which provided IT infrastructure services to [Garanti BBVA](https://www.garantibbva.com.tr/en){:target="_blank"} (one of the largest banks in Turkey) and its subsidiaries. The team's responsibilities included:
 * Installing, applying maintenance fixes, setting and tuning system parameters of DB2 and
 third-party DBA tools.
 * Performance monitoring, managing system resources, data recovery.
