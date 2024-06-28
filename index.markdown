@@ -58,7 +58,7 @@ Middle East Technical University, Ankara, Turkey | September 2007 - June 2011
 
 Got accepted into the accelerator program of 500 Startups, which is the most prominent early-stage venture fund and startup accelerator in Silicon Valley.
 
-[https://500.co/theglobalvc/500-startups-announces-batch-11-in-mountain-view](https://500.co/theglobalvc/500-startups-announces-batch-11-in-mountain-view){:target="_blank"}
+[https://500.co/theglobalvc/500-startups-announces-batch-11-in-mountain-view](https://web.archive.org/web/20231203044921/https://500.co/theglobalvc/500-startups-announces-batch-11-in-mountain-view){:target="_blank"}
 
 #### Winner of Startup Istanbul 2014
 Etohum, Istanbul, Turkey | September 2014
