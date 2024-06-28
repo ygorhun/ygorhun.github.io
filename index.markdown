@@ -54,7 +54,7 @@ Middle East Technical University, Ankara, Turkey | September 2007 - June 2011
 
 ### Honors & Awards
 #### 500 Startups Batch 11 Alumnus
-500 Startups, Mountain View, CA | Oct. 2014 - Feb. 2015
+500 Startups, Mountain View, CA, USA | Oct. 2014 - Feb. 2015
 
 Got accepted into the accelerator program of 500 Startups, which is the most prominent early-stage venture fund and startup accelerator in Silicon Valley.
 
