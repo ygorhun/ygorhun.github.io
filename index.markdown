@@ -17,7 +17,7 @@ Senior Software Engineer with 10+ years of experience in architecting and scalin
 
 ### Experience
 #### Co-Founder
-[Connected2.me](https://connected2.me/){:target="_blank"}, Ankara, Turkey | July 2014 - April 2023 (8 years 9 months)
+[Connected2.me](https://connected2.me/){:target="_blank"}, Ankara, Turkey | July 2014 - April 2023
 
 * Designed and implemented the core Android app from scratch, encompassing architecture, UI, networking, XMPP messaging, media handling, notifications, in-app purchases, and analytics; ensuring system stability through UI and integration testing.
 * Developed and launched full-stack features in collaboration with backend and design teams.
@@ -27,11 +27,24 @@ Senior Software Engineer with 10+ years of experience in architecting and scalin
 * Defined product and technical roadmaps as part of the core leadership team.
 
 #### System Database Administrator
-[Garanti BBVA Teknoloji](https://www.garantibbvateknoloji.com.tr/){:target="_blank"}, Istanbul, Turkey | July 2011 - July 2014 (3 years)
+[Garanti BBVA Teknoloji](https://www.garantibbvateknoloji.com.tr/){:target="_blank"}, Istanbul, Turkey | July 2011 - July 2014
 
 * Maintained DB2 for z/OS systems, handling installation, tuning, performance monitoring, and recovery operations.
 * Developed internal tools to automate and streamline system maintenance, improving reliability and operational efficiency.
 * Monitored system resources and ensured security and performance for core banking databases.
+
+* * *
+
+### Projects
+#### Pinya - Online Professional Dietitians | Jul 2019 – Mar 2020
+
+* Developed a mobile-first platform for users to video chat with professional dietitians and receive personalized plans.
+* Built cross-platform iOS/Android apps using React Native and a Python-based serverless backend on AWS Lambda with Amazon Aurora.
+* Onboarded practitioners and collaborated on growth strategies.
+
+#### Wondr - Anonymous Chat for Twitter |	May 2015 – Oct 2015
+* Built an Android app enabling anonymous conversations via Twitter accounts.
+* Focused on clean UI and frictionless user experience; participated in product ideation and design.
 
 * * *
 
