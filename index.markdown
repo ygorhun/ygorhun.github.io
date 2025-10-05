@@ -36,13 +36,13 @@ Senior Software Engineer with 10+ years of experience in architecting and scalin
 * * *
 
 ### Projects
-#### Pinya - Online Professional Dietitians | Jul 2019 – Mar 2020
+##### Pinya - Online Professional Dietitians | July 2019 - March 2020
 
 * Developed a mobile-first platform for users to video chat with professional dietitians and receive personalized plans.
 * Built cross-platform iOS/Android apps using React Native and a Python-based serverless backend on AWS Lambda with Amazon Aurora.
 * Onboarded practitioners and collaborated on growth strategies.
 
-#### Wondr - Anonymous Chat for Twitter |	May 2015 – Oct 2015
+##### Wondr - Anonymous Chat for Twitter |	May 2015 – October 2015
 * Built an Android app enabling anonymous conversations via Twitter accounts.
 * Focused on clean UI and frictionless user experience; participated in product ideation and design.
 
