@@ -9,40 +9,29 @@ title: Yurdakul Orhun
 ![photo](/assets/photo_rounded.png){:style="float:left; width:12em; margin-top: 10px; margin-right: 10px; margin-bottom: 10px; border:none; -webkit-box-shadow:none;"} 
 
 ### About
-Senior Software Engineer with 8+ years of experience in building mobile apps from the ground up.
-As a co-founder and software engineer, I focus on multiple aspects of mobile software development. This includes designing UX-oriented features, managing the development cycle, planning releases, and measuring user interaction and engagement.
+Senior Software Engineer with 10+ years of experience in architecting and scaling mobile applications and backend services. Co-founded Connected2.me, a global messaging-focused social network that grew to over 55M registered users. Proven ability to drive full-stack feature development, mentor engineers, and align technical solutions with business goals.
 <br />
 <br />
 
 * * * 
 
 ### Experience
-#### Co-Founder / Android Team Lead
+#### Co-Founder
 [Connected2.me](https://connected2.me/){:target="_blank"}, Ankara, Turkey | July 2014 - April 2023 (8 years 9 months)
 
-Joined Connected2.me (a global messaging platform with 55M+ registered users) as a co-founder. Among other duties, such as collaborating on
-product decisions with the core team, developing and maintaining the Android app was my
-primary responsibility.
-* Developed the Android app from scratch. Gained experience in UI implementation,
-networking, object-relational mapping, XMPP messaging, services, notification handling,
-media recording/processing/displaying, in-app purchases, analytics tools integration and
-analysis, UI testing, and continuous integration.
-* Used many popular libraries such as Firebase, Fresco, Google Play Billing, Retrofit,
-ExoPlayer, Dagger, Gson, Smack, Sugar ORM, Voximplant, FFmpeg.
-* Led the Android team of engineers and interns. While having an active role in development,
-also engaged in team management and interpersonal communication.
-* Organized and led product teams, utilizing the contributions of 20+ people within the
-company. Focused on different aspects of growth, designed features, carried out the
-implementation, and measured their impact with each product team.
+* Designed and implemented the core Android app from scratch, encompassing architecture, UI, networking, XMPP messaging, media handling, notifications, in-app purchases, and analytics; ensuring system stability through UI and integration testing.
+* Developed and launched full-stack features in collaboration with backend and design teams.
+* Integrated third-party APIs and tools for analytics, messaging, and monetization.
+* Led a team of Android engineers and interns; overseeing code quality, mentoring, and development process, including the implementation of continuous integration (CI) practices.
+* Organized and managed product squads of 20+ contributors across design, engineering, and growth.
+* Defined product and technical roadmaps as part of the core leadership team.
 
 #### System Database Administrator
 [Garanti BBVA Teknoloji](https://www.garantibbvateknoloji.com.tr/){:target="_blank"}, Istanbul, Turkey | July 2011 - July 2014 (3 years)
 
-Worked in the DB2 for z/OS System Management team at Garanti BBVA Teknoloji, which provided IT infrastructure services to [Garanti BBVA](https://www.garantibbva.com.tr/en){:target="_blank"} (one of the largest banks in Turkey) and its subsidiaries. The team's responsibilities included:
-* Installing, applying maintenance fixes, setting and tuning system parameters of DB2 and
-third-party DBA tools.
-* Performance monitoring, managing system resources, data recovery.
-* Developing in-house utilities to perform maintenance tasks.
+* Maintained DB2 for z/OS systems, handling installation, tuning, performance monitoring, and recovery operations.
+* Developed internal tools to automate and streamline system maintenance, improving reliability and operational efficiency.
+* Monitored system resources and ensured security and performance for core banking databases.
 
 * * *
 
